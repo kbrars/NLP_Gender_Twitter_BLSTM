@@ -1,0 +1,9 @@
+kadın
+erkek
+kız
+oğlan
+anne
+baba
+evlat
+sevgi
+boşan
